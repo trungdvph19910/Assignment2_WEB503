@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "name": "Product 2",
+      "description": "Thông tin danh mục",
+      "price": "121203",
+      "categoryId": 23,
+      "id": 9
+    },
+    {
+      "name": "Products",
+      "price": "1111",
+      "description": "trungdeptrai",
+      "categoryId": 23,
+      "id": 12
+    },
+    {
+      "name": "Product 1",
+      "price": "700",
+      "description": "Thông tin sản phẩm",
+      "categoryId": "90",
+      "id": 13
+    },
+    {
+      "name": "Đỗ Nguyễn Tường Vy",
+      "price": "200",
+      "description": "Anh nhớ e",
+      "categoryId": "12",
+      "id": 14
+    }
+  ]
+}
